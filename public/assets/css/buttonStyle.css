@@ -1,0 +1,60 @@
+.fs-8 {
+    font-size: 0.9rem;
+}
+
+/* Tombol Kembali (abu-abu muda → abu tua) */
+.btn-secondary {
+    background-color: #babcbf;
+    border-color: #babcbf;
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+    color: #fff;
+    transform: scale(1.03);
+}
+
+/* Tombol Edit (biru muda → biru tua) */
+.btn-outline-primary {
+    background-color: #3e86f1;
+    border-color: #3e86f1;
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-outline-primary:hover {
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+    color: #fff;
+    transform: scale(1.03);
+}
+
+/* Tombol Ajukan (Hijau muda → hijau tua) */
+.btn-outline-success {
+    background-color: #5ec07b;
+    border-color: #5ec07b;
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-outline-success:hover {
+    background-color: #20722a;
+    border-color: #20722a;
+    color: #fff;
+    transform: scale(1.03);
+}
+
+.btn-outline-danger-custom {
+    background-color: #d16e6e;
+    border-color: #d16e6e;
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-outline-danger-custom:hover {
+    background-color: #ac3f3b;
+    border-color: #ac3f3b;
+}
